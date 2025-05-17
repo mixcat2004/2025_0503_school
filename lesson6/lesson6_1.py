@@ -36,3 +36,6 @@ while(True):
 print("遊戲結束")
 
 
+
+
+
