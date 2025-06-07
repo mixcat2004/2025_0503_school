@@ -14,3 +14,4 @@ def get_state(bmi:float)->str:
         return "中度肥胖"
     else:
         return "重度肥胖"
+    
